@@ -1,5 +1,6 @@
 import $ from "jquery";
 import "../css/style.css";
+// import "../css/lightbox.min.css";
 
 const photos = ["../images/IH4AgXeHhOk.jpg", "../images/Без названия.png"];
 let current_index = 1;
