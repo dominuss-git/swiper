@@ -25,7 +25,7 @@ $modal : #fff;
 
 .my-gallery-update {
   display: flex;
-  flex-direction: row;
+  flex-wrap: wrap;
   margin: auto;
   padding: 5px;
   background-color: $gallery;
